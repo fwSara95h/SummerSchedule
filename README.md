@@ -1,34 +1,25 @@
 ## Summer Course Schedule
 
-| Time   | Monday                  | Tuesday                 | Wednesday               | Wednesday               | Thursday                | Friday                  |
-|--------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
-| 8:00   |                         |                         |                         |                         |                         |                         |
-| 8:30   |                         | **ELI 9400 Section 001**|                         |                         |                         |                         |
-| 9:00   |                         |                         |                         |                         |                         |                         |
-| 9:30   |                         |                         |                         |                         |                         |                         |
-| 10:00  |                         |                         |                         |                         |                         |                         |
-| 10:30  |                         |                         |                         |                         |                         |                         |
-| 11:00  |                         |                         |                         |                         |                         |                         |
-| 11:30  |                         |                         |                         |                         |                         |                         |
-| 12:00  |                         |                         |                         |                         |                         |                         |
-| 12:30  |                         | ELI 9600 Section 001    | ELI 9600 Section 001    |                         |                         | **ELI 9300 Section 001**|
-| 13:00  | **ELI 9200 Section 001**| ELI 9200 Section 002    |                         |                         |                         | **ELI 9300 Section 001**|
-| 13:30  | **ELI 9200 Section 001**| ELI 9200 Section 002    |                         |                         |                         | **ELI 9300 Section 001**|
-| 14:00  | **ELI 9200 Section 001**| ELI 9200 Section 002    |                         |                         |                         | **ELI 9300 Section 001**|
-| 14:30  | **ELI 9200 Section 001**| ELI 9200 Section 002    |                         |                         |                         | **ELI 9300 Section 001**|
-| 15:00  | **ELI 9200 Section 001**| ELI 9200 Section 002    |                         |                         |                         | **ELI 9300 Section 001**|
-| 15:30  | **ELI 9200 Section 001**|                         |                         |                         |                         |                         |
-| 16:00  |                         |                         |                         |                         |                         |                         |
-| 16:30  | **ELI 9600 Section 002**|                         |                         |                         | **ELI 9600 Section 002**|                         |
-| 17:00  | **ELI 9600 Section 002**|                         |                         |                         | **ELI 9600 Section 002**|                         |
-| 17:30  | **ELI 9600 Section 002**|                         |                         |                         | **ELI 9600 Section 002**|                         |
-| 18:00  | **ELI 9600 Section 002**|                         |                         |                         | **ELI 9600 Section 002**|                         |
-| 18:30  | **ELI 9600 Section 002**|                         |                         |                         | **ELI 9600 Section 002**|                         |
-| 19:00  | **ELI 9600 Section 002**|                         |                         |                         | **ELI 9600 Section 002**|                         |
-| 19:30  |                         |                         |                         |                         |                         |                         |
-| 20:00  |                         |                         |                         |                         |                         |                         |
-| 20:30  |                         |                         |                         |                         |                         |                         |
-| 21:00  |                         |                         |                         |                         |                         |                         |
+| Time  | Sunday | Monday                          | Tuesday                                         | Wednesday | Thursday | Friday                                         | Saturday |
+|-------|--------|---------------------------------|-------------------------------------------------|-----------|----------|------------------------------------------------|----------|
+| 8:00  |        |                                 |                                                 |           |          |                                                |          |
+| 8:30  |        |                                 | ELI 9400 ENGINEERING LEADERSHIP<br>TC 203       |           |          |                                                |          |
+| 9:00  |        |                                 | ELI 9400 ENGINEERING LEADERSHIP<br>TC 203       |           |          |                                                |          |
+| 9:30  |        |                                 | ELI 9400 ENGINEERING LEADERSHIP<br>TC 203       |           |          |                                                |          |
+| 10:00 |        |                                 | ELI 9400 ENGINEERING LEADERSHIP<br>TC 203       |           |          |                                                |          |
+| 10:30 |        |                                 | ELI 9400 ENGINEERING LEADERSHIP<br>TC 203       |           |          |                                                |          |
+| 11:00 |        |                                 | ELI 9400 ENGINEERING LEADERSHIP<br>TC 203       |           |          |                                                |          |
+| 11:30 |        |                                 |                                                 |           |          |                                                |          |
+| 12:00 |        |                                 |                                                 |           |          |                                                |          |
+| 12:30 |        |                                 | ELI 9600 ENGINEERING COMMUNICATIONS<br>AHB 2B04 |           |          | ELI 9300 DESIGN DRIVEN INNOVATION<br>AHB 2B04 |          |
+| 13:00 |        | ELI 9200 PLANNING & PROJECT MANAGEMENT<br>AHB 1B02 | ELI 9600 ENGINEERING COMMUNICATIONS<br>AHB 2B04 |           |          | ELI 9300 DESIGN DRIVEN INNOVATION<br>AHB 2B04 |          |
+| 13:30 |        | ELI 9200 PLANNING & PROJECT MANAGEMENT<br>AHB 1B02 | ELI 9600 ENGINEERING COMMUNICATIONS<br>AHB 2B04 |           |          | ELI 9300 DESIGN DRIVEN INNOVATION<br>AHB 2B04 |          |
+| 14:00 |        | ELI 9200 PLANNING & PROJECT MANAGEMENT<br>AHB 1B02 | ELI 9600 ENGINEERING COMMUNICATIONS<br>AHB 2B04 |           |          | ELI 9300 DESIGN DRIVEN INNOVATION<br>AHB 2B04 |          |
+| 14:30 |        | ELI 9200 PLANNING & PROJECT MANAGEMENT<br>AHB 1B02 | ELI 9600 ENGINEERING COMMUNICATIONS<br>AHB 2B04 |           |          | ELI 9300 DESIGN DRIVEN INNOVATION<br>AHB 2B04 |          |
+| 15:00 |        | ELI 9200 PLANNING & PROJECT MANAGEMENT<br>AHB 1B02 | ELI 9600 ENGINEERING COMMUNICATIONS<br>AHB 2B04 |           |          | ELI 9300 DESIGN DRIVEN INNOVATION<br>AHB 2B04 |          |
+| 15:30 |        | ELI 9200 PLANNING & PROJECT MANAGEMENT<br>AHB 1B02 |                                                 |           |          |                                                |          |
+| 16:00 |        |                                 |                                                 |           |          |                                                |          |
+| 16:30 |        |                                 |                                                 |           |          |                                                |          |
 
 ---
 
