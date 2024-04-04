@@ -1,3 +1,4 @@
+# !pip install ics
 from ics import Calendar, Event
 from datetime import datetime, timedelta, time
 import pytz
