@@ -30,11 +30,13 @@
 | 20:30  |                         |                         |                         |                         |                         |                         |
 | 21:00  |                         |                         |                         |                         |                         |                         |
 
+---
+
 ## Engineering Leadership and Innovation 2024 Summer Term Timetable
 
-| Course                               | Section | Instructor  | Email           | Running Dates   | Days & Time                  | Location      |
-|--------------------------------------|---------|-------------|-----------------|-----------------|------------------------------|---------------|
-| **ELI 9200 Planning & Project Management**| 001     | D. Sumpton   | dsumpton@uwo.ca | May 6 - July 22 | Mondays<br>1:00 pm - 4:00 pm | Not Specified |
-| **ELI 9600 Engineering Communications**     | 001     | N. Mathieson | nmathie@uwo.ca  | May 14 - June 26| Tuesdays & Thursdays<br>12:30 pm - 3:30 pm | Not Specified |
-| **ELI 9300 Design Driven Innovation**       | 002     | J. Reeves    | jreeves@uwo.ca  | May 10 - July 26| Fridays<br>12:30 pm - 5:30 pm| Not Specified |
-| **ELI 9400 Engineering Leadership**         | 001     | M. Ha        | mha@uwo.ca      | May 7 - July 23 | Tuesdays<br>8:30 am - 11:30 am| Not Specified |
+|          | name                          | section      | instructor             | dates            | days    |   start_time |   end_time | location   | color   |
+|:---------|:------------------------------|:-------------|:-----------------------|:-----------------|:--------|-------------:|-----------:|:-----------|:--------|
+| ELI 9200 | PLANNING & PROJECT MANAGEMENT | 001 LEC 1175 | Kevin Lawrence McGuire | May 6 - July 22  | Monday  |         13   |       16   | AHB 1B02   | #FFC0CB |
+| ELI 9300 | DESIGN DRIVEN INNOVATION      | 001 LEC 1106 | Jacob Mackenzie Reeves | May 10 - July 26 | Friday  |         12.5 |       15.5 | AHB 2B04   | #ADD8E6 |
+| ELI 9400 | ENGINEERING LEADERSHIP        | 001 LEC 1177 | Minha R. Ha            | May 7 - July 23  | Tuesday |          8.5 |       11.5 | TC 203     | #90EE90 |
+| ELI 9600 | ENGINEERING COMMUNICATIONS    | 001 LEC 1178 | Natalie Mathieson      | May 7 - July 25  | Tuesday |         12.5 |       15.5 | AHB 2B04   | #FFFFE0 |
