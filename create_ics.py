@@ -2,56 +2,12 @@
 from ics import Calendar, Event
 from datetime import datetime, timedelta, time
 import pytz
+import json
 
 
-
-# Define the course details in a dictionary format
-courses_info = {
-    "ELI 9200": {
-        "name": "PLANNING & PROJECT MANAGEMENT",
-        "section": "001 LEC 1175",
-        "instructor": "Kevin Lawrence Mc Guire",
-        "dates": "May 6 - July 22",
-        "days": "Monday",
-        "start_time": 13,  # 24-hour format
-        "end_time": 16,
-        "location": "AHB 1B02",
-        "color": "#FFC0CB",  # Light Pink
-    },
-    "ELI 9300": {
-        "name": "DESIGN DRIVEN INNOVATION",
-        "section": "001 LEC 1106",
-        "instructor": "Jacob Mackenzie Reeves",
-        "dates": "May 10 - July 26",
-        "days": "Friday",
-        "start_time": 12.5,
-        "end_time": 15.5,
-        "location": "AHB 2B04",
-        "color": "#ADD8E6",  # Light Blue
-    },
-    "ELI 9400": {
-        "name": "ENGINEERING LEADERSHIP",
-        "section": "001 LEC 1177",
-        "instructor": "Minha R. Ha",
-        "dates": "May 7 - July 23",
-        "days": "Tuesday",
-        "start_time": 8.5,
-        "end_time": 11.5,
-        "location": "TC 203",
-        "color": "#90EE90",  # Light Green
-    },
-    "ELI 9600": {
-        "name": "ENGINEERING COMMUNICATIONS",
-        "section": "001 LEC 1178",
-        "instructor": "Natalie Mathieson",
-        "dates": "May 7 - July 25",
-        "days": "Tuesday",
-        "start_time": 12.5,
-        "end_time": 15.5,
-        "location": "AHB 2B04",
-        "color": "#FFFFE0",  # Light Yellow
-    }
-}
+# Read the course details in a dictionary format
+with open('courses_info.json') as f:
+    courses_info = json.load(f)
 
 # Create a Calendar
 calendar = Calendar()
